@@ -3,5 +3,5 @@ class Notifier:
         self.settings = settings
     
     def notify(self, report):
-        # Implement notification logic, e.g., send email or Slack message
+        #todo: sending email
         pass
